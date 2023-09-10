@@ -1,7 +1,7 @@
 # Title
 `tag1` `tag2` `tag3`
 
-## tips
+## Tips
 
 #### t1
 
