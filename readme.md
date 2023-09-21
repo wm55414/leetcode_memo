@@ -1,3 +1,3 @@
 # Leetcode Memo
 
-record my approch about some leetcode problem
+Record my approch about some noteworthy leetcode problems ~
