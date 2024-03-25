@@ -1,6 +1,5 @@
 # Overlap Interval problem tips
 
-## Description
 Overlap problem got the interval like [0,1],[3,5],[2,4],....
 
 ## Steps
